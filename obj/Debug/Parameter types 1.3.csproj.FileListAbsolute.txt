@@ -1,0 +1,14 @@
+C:\Users\Wandile Nkosi\source\repos\Parameter types 1.3\bin\Debug\Parameter types 1.3.exe.config
+C:\Users\Wandile Nkosi\source\repos\Parameter types 1.3\bin\Debug\Parameter types 1.3.exe
+C:\Users\Wandile Nkosi\source\repos\Parameter types 1.3\bin\Debug\Parameter types 1.3.pdb
+C:\Users\Wandile Nkosi\source\repos\Parameter types 1.3\obj\Debug\Parameter types 1.3.csproj.AssemblyReference.cache
+C:\Users\Wandile Nkosi\source\repos\Parameter types 1.3\obj\Debug\Parameter types 1.3.csproj.CoreCompileInputs.cache
+C:\Users\Wandile Nkosi\source\repos\Parameter types 1.3\obj\Debug\Parameter types 1.3.exe
+C:\Users\Wandile Nkosi\source\repos\Parameter types 1.3\obj\Debug\Parameter types 1.3.pdb
+C:\Users\Wandile Nkosi\Downloads\Parameter types 1.3\bin\Debug\Parameter types 1.3.exe.config
+C:\Users\Wandile Nkosi\Downloads\Parameter types 1.3\bin\Debug\Parameter types 1.3.exe
+C:\Users\Wandile Nkosi\Downloads\Parameter types 1.3\bin\Debug\Parameter types 1.3.pdb
+C:\Users\Wandile Nkosi\Downloads\Parameter types 1.3\obj\Debug\Parameter types 1.3.csproj.AssemblyReference.cache
+C:\Users\Wandile Nkosi\Downloads\Parameter types 1.3\obj\Debug\Parameter types 1.3.csproj.CoreCompileInputs.cache
+C:\Users\Wandile Nkosi\Downloads\Parameter types 1.3\obj\Debug\Parameter types 1.3.exe
+C:\Users\Wandile Nkosi\Downloads\Parameter types 1.3\obj\Debug\Parameter types 1.3.pdb
